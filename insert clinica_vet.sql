@@ -34,11 +34,11 @@ insert into comum (c) values
 
 
 
-insert into animal (id, nome, dono) values
-(12, 'Alfredo', 1),
-(13, 'Senhor Gato', 2),
-(14, 'Kal-El', 3),
-(15, 'Fofudo', 4);
+insert into animal (id, nome, dono, plano) values
+(12, 'Alfredo', 1, 02),
+(13, 'Senhor Gato', 2, 03),
+(14, 'Kal-El', 3, 04),
+(15, 'Fofudo', 4, 05);
 
 
 
